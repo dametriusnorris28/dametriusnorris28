@@ -12,6 +12,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/dametriusnorris28/threat-hunting-scenario-tor)**
 
+## 🖥️ Information Technology Projects
+
+- **[IT Active Directory Lab](https://github.com/dametriusnorris28/IT-Active-Directory)**
+
 <hr/>
 
 ## 🤳 Connect With Me
